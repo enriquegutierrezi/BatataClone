@@ -454,7 +454,7 @@ color: var(--bitcoin-ornage);
     display: flex;
     width: 100%;
     height: 150px;
-    background-color: var(--bitcoin-orange);
+    background-color: var(--bitcoin-ornage);
   }
   footer section {
     display: flex;
